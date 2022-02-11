@@ -133,6 +133,10 @@ h3 { font-size: var(--fs-h3) }
     margin-bottom: 2em;
 }
 
+.portfolio-item-individual-img {
+    margin: 0 auto;
+}
+
 /* header */
 
 header{
